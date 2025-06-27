@@ -1,4 +1,4 @@
-[🇬🇧 English Version](./README.md)
+[🔁 Also available in: 🇬🇧 English](./README.md)
 
 <h1 align="center">👋 Hallo, ich bin Alexander Nitiola</h1>
 <p align="center">
