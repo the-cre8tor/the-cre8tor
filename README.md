@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[🇩🇪 Deutsche Version](./README.de.md)
+[🔁 Also available in: 🇩🇪 Deutsch](./README.de.md)
 
 <h1 align="center">👋 Hi, I'm Alexander Nitiola</h1>
 <p align="center">
