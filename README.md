@@ -90,7 +90,7 @@ I enjoy solving distributed systems challenges and have contributed to systems i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-cre8tor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-cre8tor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-cre8tor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-cre8tor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
