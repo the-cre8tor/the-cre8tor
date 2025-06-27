@@ -1,3 +1,5 @@
+[🇬🇧 English Version](./README.md)
+
 <h1 align="center">👋 Hallo, ich bin Alexander Nitiola</h1>
 <p align="center">
   <strong>Rust-Backend-Entwickler • Verteilte Systeme • Skalierbare Architekturen</strong><br/>
