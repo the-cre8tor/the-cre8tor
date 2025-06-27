@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 
 I’m a backend-focused Software Engineer with 4+ years of experience designing and implementing **high-performance systems** in the fintech and infrastructure space. My core expertise lies in the **Rust programming language**, particularly with frameworks like **Actix Web** and **SQLx**.
 
-### 🧠 Über mich
-
-Ich bin ein backend-orientierter Softwareentwickler mit über 4 Jahren Erfahrung in der Konzeption und Umsetzung **hochperformanter Systeme**, insbesondere im Bereich Fintech und Infrastruktur. Mein Schwerpunkt liegt auf der Programmiersprache **Rust**, insbesondere mit Frameworks wie **Actix Web** und **SQLx**.
-
-
 I specialize in:
 - ✳️ Scalable microservices architecture (Rust, TypeScript)
 - 🧮 SQL performance tuning and zero-downtime migrations
