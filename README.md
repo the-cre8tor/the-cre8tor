@@ -92,7 +92,7 @@ I enjoy solving distributed systems challenges and have contributed to systems i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-cre8tor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=the-cre8tor)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=the-cre8tor)](https://git.io/streak-stats) -->
 
 ---
 
