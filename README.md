@@ -74,14 +74,14 @@ I currently work as a **Senior Software Engineer at Aella MFB**, where I lead sy
 - 🇪🇺 Eligible for **EU Blue Card sponsorship**
 - 🗣️ English (Proficient), German (A1)
 
----
+<!-- ---
 
 ### 📈 GitHub Stats
 
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=the-cre8tor&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-cre8tor&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
