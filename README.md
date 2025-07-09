@@ -84,6 +84,21 @@ I currently work as a **Senior Software Engineer at Aella MFB**, where I lead sy
 </p> -->
 
 ---
+<table>
+   <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/thecre8tor/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/thecre8tor/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+</table>
+
+---
 
 ### 🤝 Let’s Connect
 
